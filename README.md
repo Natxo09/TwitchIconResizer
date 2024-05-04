@@ -1,4 +1,4 @@
-# TwitchIconResizer
+# Twitch Icon Resizer
 
 This Python script allows users to resize an image to predefined sizes and save the resized images in a dedicated folder. The script uses the PIL library to handle image operations and `tkinter` for the file selection dialog.
 
